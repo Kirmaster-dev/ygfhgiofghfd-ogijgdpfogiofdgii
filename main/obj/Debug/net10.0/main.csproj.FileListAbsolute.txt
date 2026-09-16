@@ -1,0 +1,15 @@
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/bin/Debug/net10.0/main
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/bin/Debug/net10.0/main.deps.json
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/bin/Debug/net10.0/main.runtimeconfig.json
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/bin/Debug/net10.0/main.dll
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/bin/Debug/net10.0/main.pdb
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/obj/Debug/net10.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/obj/Debug/net10.0/main.AssemblyInfoInputs.cache
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/obj/Debug/net10.0/main.AssemblyInfo.cs
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/obj/Debug/net10.0/main.csproj.CoreCompileInputs.cache
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/obj/Debug/net10.0/main.sourcelink.json
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/obj/Debug/net10.0/main.dll
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/obj/Debug/net10.0/refint/main.dll
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/obj/Debug/net10.0/main.pdb
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/obj/Debug/net10.0/main.genruntimeconfig.cache
+/workspaces/ygfhgiofghfd-ogijgdpfogiofdgii/main/obj/Debug/net10.0/ref/main.dll
